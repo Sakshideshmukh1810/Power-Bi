@@ -40,7 +40,26 @@ Access to the Blinkit Sales Dataset: Ensure you have the dataset available for a
 
 # Screenshots
 
+  # Blinkit Dashboard :
 
+   ![image](https://github.com/user-attachments/assets/af26f7c0-0627-4be5-9c5c-45dea067986a)
+
+  # HR Data Analysis for Employee Retention Dashboard:
+
+
+  ![image](https://github.com/user-attachments/assets/1d3162ba-da75-4bf9-9dab-f618488776ac)
+
+
+  # Sales Analysis Dashboard:
+ 
+ 
+  ![image](https://github.com/user-attachments/assets/66323256-c26e-4d39-99c0-7600b00fa187)
+
+
+  # Zomato Sales and Profit Analysis Dashboard :
+
+
+  ![image](https://github.com/user-attachments/assets/98423273-bd64-4f28-8a60-be445641f80e)
 
 
 # Contact
